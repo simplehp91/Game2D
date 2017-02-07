@@ -1,1 +1,1 @@
-# Game2D
+Demo Game 2D Android
